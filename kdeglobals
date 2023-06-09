@@ -24,8 +24,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=100,56,149
-BackgroundNormal=40,42,54
+BackgroundAlternate=16, 9, 47
+BackgroundNormal=16, 9, 47
 DecorationFocus=127,63,191
 DecorationHover=127,63,191
 ForegroundActive=127,63,191
@@ -58,8 +58,8 @@ ForegroundPositive=80,250,122
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=47,52,63
-BackgroundNormal=53,57,69
+BackgroundAlternate=16, 9, 47
+BackgroundNormal=16, 9, 47
 DecorationFocus=127,63,191
 DecorationHover=127,63,191
 ForegroundActive=127,63,191
@@ -150,9 +150,9 @@ Dialog Size=600,480
 MaximumRemoteSize=0
 
 [WM]
-activeBackground=47,52,63
-activeBlend=47,52,63
+activeBackground=16, 9, 47
+activeBlend=16, 9, 47
 activeForeground=211,218,227
-inactiveBackground=47,52,63
-inactiveBlend=47,52,63
+inactiveBackground=16, 9, 47
+inactiveBlend=16, 9, 47
 inactiveForeground=102,106,115
