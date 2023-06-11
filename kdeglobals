@@ -3,7 +3,7 @@ update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd
 
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=56,56,56
+Color=127, 63, 191
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
@@ -14,7 +14,7 @@ IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=112,111,110
+Color=127, 63, 191
 ColorAmount=0.025000000000000001
 ColorEffect=2
 ContrastAmount=0.10000000000000001
@@ -29,7 +29,7 @@ BackgroundNormal=16, 9, 47
 DecorationFocus=127,63,191
 DecorationHover=127,63,191
 ForegroundActive=127,63,191
-ForegroundInactive=102,106,115
+ForegroundInactive=127, 63, 191
 ForegroundLink=127,63,191
 ForegroundNegative=255,85,85
 ForegroundNeutral=255,184,108
@@ -97,7 +97,7 @@ ForegroundNegative=255,85,85
 ForegroundNeutral=255,184,108
 ForegroundNormal=248,248,242
 ForegroundPositive=80,250,122
-ForegroundVisited=68,71,90
+ForegroundVisited=127, 63, 191
 
 [DirSelect Dialog]
 DirSelectDialog Size=870,598
@@ -152,7 +152,7 @@ MaximumRemoteSize=0
 [WM]
 activeBackground=16, 9, 47
 activeBlend=16, 9, 47
-activeForeground=211,218,227
+activeForeground=127, 63, 191
 inactiveBackground=16, 9, 47
 inactiveBlend=16, 9, 47
-inactiveForeground=102,106,115
+inactiveForeground=127, 63, 191
